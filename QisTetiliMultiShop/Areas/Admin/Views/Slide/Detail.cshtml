@@ -1,0 +1,22 @@
+﻿@model Slide
+
+
+
+<div class="card mb-3" style="max-width: 540px;">
+    <div class="row g-0">
+        <div class="col-md-4">
+            <img src="~/assets/img/@Model.Image" class="img-fluid rounded-start" alt="...">
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h4 class="card-title">Title: @Model.Title</h4>
+                <h5 class="card-title">Button Text: @Model.ButtonText</h5>
+
+                <p class="card-text">Button Link: @Model.ButtonLink</p>
+                <p class="card-text">Description: @Model.Description</p>
+
+                <p class="card-text">Order: @Model.Order</p>
+            </div>
+        </div>
+    </div>
+</div>

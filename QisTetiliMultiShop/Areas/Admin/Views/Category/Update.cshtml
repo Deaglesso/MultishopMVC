@@ -1,0 +1,35 @@
+﻿@model UpdateCategoryVM
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Update Category</h4>
+
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="Name">Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Name">
+                    <span class="text-danger fs-6 fst-italic" asp-validation-for="Name"></span>
+                </div>
+
+                
+                <div class="form-group">
+                    <label asp-for="File">Photo</label>
+                    <input asp-for="File" class="form-control" placeholder="Upload Photo">
+                    <span class="text-danger fs-6 fst-italic" asp-validation-for="File"></span>
+
+                </div>
+
+
+
+
+
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+                <button asp-action="Index" asp-controller="Slide" class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}

@@ -1,0 +1,645 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\QisTetiliMultiShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QisTetiliMultiShop.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\.DS_Store"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\js\\.DS_Store"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\js\\main.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\js\\template.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\1cc53471-7b34-41ed-a538-0c84b34892f7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\1cc53471-7b34-41ed-a538-0c84b34892f7.png"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\23ffe5aa-9b38-4cdd-aca1-d7676b9ae025.png",
+      "PackagePath": "staticwebassets\\assets\\img\\23ffe5aa-9b38-4cdd-aca1-d7676b9ae025.png"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\27f7d19e-2891-42c6-a6e7-7f8ca72e34e9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\27f7d19e-2891-42c6-a6e7-7f8ca72e34e9.png"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\4343d64f-0a1f-4dfa-878d-1fad153fb3ae.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\4343d64f-0a1f-4dfa-878d-1fad153fb3ae.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\5f12d7c3-cde9-4c1c-97ee-b76fe92f63d0.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\5f12d7c3-cde9-4c1c-97ee-b76fe92f63d0.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\81eb122f-f417-4430-b758-f750bb3d009c.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\81eb122f-f417-4430-b758-f750bb3d009c.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\b551010a-4a1e-4a95-acae-72ac84418f8d.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\b551010a-4a1e-4a95-acae-72ac84418f8d.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\d113843d-730f-44c2-a800-b238465add5f.png",
+      "PackagePath": "staticwebassets\\assets\\img\\d113843d-730f-44c2-a800-b238465add5f.png"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\db1b350c-bbc0-4f82-8a16-c4ca9f1a28c6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\db1b350c-bbc0-4f82-8a16-c4ca9f1a28c6.png"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\f65ad480-ffbc-4146-ba63-af7f84a0719a.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\f65ad480-ffbc-4146-ba63-af7f84a0719a.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\f73840b6-7987-4b50-9067-b995087884fa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\f73840b6-7987-4b50-9067-b995087884fa.png"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\offer-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\offer-1.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\offer-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\offer-2.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\payments.png",
+      "PackagePath": "staticwebassets\\assets\\img\\payments.png"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\mail\\contact.js"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\assets\\mail\\contact.php"
+    },
+    {
+      "Id": "D:\\CFF\\said\\QisTetiliMultiShop\\QisTetiliMultiShop\\wwwroot\\assets\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\assets\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.QisTetiliMultiShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.QisTetiliMultiShop.props",
+      "PackagePath": "build\\QisTetiliMultiShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.QisTetiliMultiShop.props",
+      "PackagePath": "buildMultiTargeting\\QisTetiliMultiShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.QisTetiliMultiShop.props",
+      "PackagePath": "buildTransitive\\QisTetiliMultiShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
